@@ -9,7 +9,7 @@ I'm a Scientist at the [University of Florida](https://ufl.edu) where I work as:
 * * Teach [Computational Tools for Research](https://comptoolsres.github.io/)
 * * Teach [AI in Biology](https://aibiology.github.io/)
 
-I am one of the [GitHub Campus Advisors](https://education.github.com/teachers/advisors) at UF, meaning that I'd love to help you use git and GitHub in your research or teaching. 
+![GitHub Campus Advisor Logo](campus_advisors-icon-100p.png) I am one of the [GitHub Campus Advisors](https://education.github.com/teachers/advisors) at UF, meaning that I'd love to help you use git and GitHub in your research or teaching. 
 * Check out [GitHub Education](https://education.github.com/) for resources and discounts!
 * Use [GitHub Classroom](https://classroom.github.com/) to teach your courses!
 
