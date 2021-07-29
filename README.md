@@ -2,12 +2,12 @@
 
 I'm a Scientist at the [University of Florida](https://ufl.edu) where I work as:
 * UFIT Research Computing Training Team Leader
- * Check out our [training pages](https://help.rc.ufl.edu/doc/Training) 
- * 💬 Ask me about HiPerGator
+  * Check out our [training pages](https://help.rc.ufl.edu/doc/Training) 
+  * 💬 Ask me about HiPerGator
 * Scientist in the Biology Department
- * Plant Evolutionary Genetics and Genomics Research, see my [Google Scholar Profile](https://scholar.google.com/citations?user=nk4e8JgAAAAJ&hl=en).
- * Teach [Computational Tools for Research](https://comptoolsres.github.io/)
- * Teach [AI in Biology](https://aibiology.github.io/)
+  * Plant Evolutionary Genetics and Genomics Research, see my [Google Scholar Profile](https://scholar.google.com/citations?user=nk4e8JgAAAAJ&hl=en).
+  * Teach [Computational Tools for Research](https://comptoolsres.github.io/)
+  * Teach [AI in Biology](https://aibiology.github.io/)
 
 ![GitHub Campus Advisor Logo](campus_advisors-icon-100p.png) I am one of the [GitHub Campus Advisors](https://education.github.com/teachers/advisors) at UF, meaning that I'd love to help you use git and GitHub in your research or teaching. 
 * Check out [GitHub Education](https://education.github.com/) for resources and discounts!
